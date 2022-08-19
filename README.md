@@ -33,3 +33,4 @@ python autoencoder.py --help
 An example of how to extract the latent space from the autoencoder is given in
 `Extract_latent_vectors.ipynb`.
 
+[![DOI](https://zenodo.org/badge/287120635.svg)](https://zenodo.org/badge/latestdoi/287120635)
